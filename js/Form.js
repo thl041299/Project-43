@@ -4,7 +4,7 @@ class Form {
     this.playButton = createButton("Play");
     
     this.resetButton = createButton("Reset");
-    this.titleImg = createImg("./assets/title.png", "game title");
+    this.titleImg = createImg("assets/title.png", "game title");
     this.greeting = createElement("h2");
   }
 
